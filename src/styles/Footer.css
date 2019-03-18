@@ -1,0 +1,76 @@
+.footer {
+  align-items: center;
+  justify-content: center;
+  width:100%;
+  padding-top: 50px;
+  background-color: white;
+}
+
+.logo-container {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+}
+
+.logo-footer {
+  width: 50%;
+  margin: 20px;
+}
+
+.derechos {
+  display: flex;
+  width: 50%;
+  align-items: flex-end;
+  justify-content: flex-end;
+  margin: 20px;
+}
+
+.divider{
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  border: 0;
+  border-top: 1px solid #00838f;
+  width: 70%
+}
+
+.politics {
+  background-color: #00838f;
+  width: 100%;
+}
+
+.politics div{
+  display: inline-flex;
+  color: white;
+}
+
+.pp {
+  padding-top: 10px;
+  padding-left: 40px;
+}
+
+.tu {
+  float: right;
+  padding-top: 10px;
+  padding-right: 40px;
+}
+
+.menu-footer {
+  color: white;
+  display: inline-flex;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+}
+
+.menulink{
+  margin-right: 5%;
+  font-weight: bold;
+  color: #00838f;
+  text-decoration: none;
+}
+
+.menulink:hover{
+  color: #4dd0e1;
+  text-decoration: none;
+}
